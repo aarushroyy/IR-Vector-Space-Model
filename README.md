@@ -8,11 +8,11 @@ This is our implementation of a Vector Space Model for Information Retrieval as 
 
 ## Team Members
 
-| Name | Roll Number | GitHub Profile |
-|------|-------------|----------------|
-| **Aarush Roy** | 2210110102 | [@aarushroyy](https://github.com/aarushroyy) |
-| **Atharva Parashar** | 2310110 | [@username](https://github.com/username) |
-| **Tanya V Edlyn** | 2210110617 | [@username](https://github.com/username) |
+| Name | Roll Number | 
+|------|-------------|
+| **Aarush Roy** | 2210110102 | 
+| **Atharva Parashar** | 2310110442 | 
+| **Tanya V Edlyn** | 2210110617 | 
 
 ## How We Implemented It
 
@@ -70,14 +70,25 @@ Adobe.txt: 0.1342
 operating.txt: 0.1270
 ...
 
-📊 Results visualization saved as: query_results/query_apple_computer_technology_20250922_143052.png
+Results visualization saved as: query_results/query_apple_computer_technology_20250922_143052.png
 ```
 
-### PNG Visualization
+### PNG Visualization Examples
 The system automatically generates horizontal bar charts showing:
 - Top 10 most relevant documents
 - Cosine similarity scores for each document
 - Query text in the title
 - Timestamp of when the search was performed
 
-Charts are saved in the `query_results/` directory with descriptive filenames. 
+Charts are saved in the `query_results/` directory with descriptive filenames.
+
+#### Test Query Results
+
+**Query 1: Zomato Business Query**
+![Zomato Business Query Results](query_result_data/QueryOne_Zomato.png)
+
+**Query 2: Shakespeare Text Query**
+![Shakespeare Query Results](query_result_data/QueryTwo.png)
+
+**Query 3: Zomato Business Query**
+![apple computer technology query Results](query_result_data/QueryThree.png) 
