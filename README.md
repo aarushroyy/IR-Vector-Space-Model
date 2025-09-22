@@ -90,5 +90,5 @@ Charts are saved in the `query_results/` directory with descriptive filenames.
 **Query 2: Shakespeare Text Query**
 ![Shakespeare Query Results](query_result_data/QueryTwo.png)
 
-**Query 3: Zomato Business Query**
-![apple computer technology query Results](query_result_data/QueryThree.png) 
+**Query 3: Apple Computer Technology Query**
+![Apple Computer Technology Query Results](query_result_data/QueryThree.png) 
