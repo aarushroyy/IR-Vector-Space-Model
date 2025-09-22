@@ -25,7 +25,7 @@ Implemented a preprocessing pipeline that handles:
 - **Soundex encoding** for phonetic matching (helps with misspelled queries)
 
 ### Vector Space Model
-Our implementation follows the **ltc.lnc** weighting scheme:
+Our implementation follows the **lnc.ltc** ranking weighting scheme:
 - **For queries**: log term frequency × IDF × cosine normalization
 - **For documents**: log term frequency × no IDF × cosine normalization
 
